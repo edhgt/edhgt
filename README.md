@@ -1,14 +1,12 @@
-# 👋 Hola, soy Elmer Danilo Hernandez
+# 👋 Hola, soy Danilo Hernandez
 Desarrollador Web.
 
 ## Sobre mí
-Me gusta la programación y el desarrollo web. Me gusta crear soluciones que no solo sean funcionales y fáciles de usar, sino también atractivas y que brinden una gran experiencia de usuario. También me agrada trabajar en equipo.
-
-Soy una persona proactiva, comprometida y con gran atención al detalle. Me encanta aprender cosas nuevas y enfrentar nuevos desafíos.
+Soy una persona proactiva, comprometida y con una gran atención al detalle. Siempre estoy en busca de nuevas oportunidades para aprender y superar desafíos, lo que me permite mejorar constantemente y aportar valor en cada proyecto.
 
 ## Conocimiento en
 * Bases de datos: MySQL, Oracle, SQL Server
-* Lenguajes de programación: Php, Java, JavaScript, Phyton.
+* Lenguajes de programación: Php, Java, JavaScript.
 * Frameworks de Backend: Laravel y Spring
 * Frameworks de Frontend: Vue.js y Angular
 * Linux
