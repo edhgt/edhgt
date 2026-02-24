@@ -1,4 +1,4 @@
-# 👋 Hola, soy Danilo Hernandez
+# Hola, soy Danilo Hernandez
 Desarrollador Web.
 
 ## Sobre mí
