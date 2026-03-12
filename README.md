@@ -13,5 +13,3 @@ Soy una persona proactiva, comprometida y con una gran atención al detalle. Sie
 
 ## Contacto
 * Correo electrónico: [eldh.dev@gmail.com](mailto:eldh.dev@gmail.com)
-* Twitter: [@eldhdev](https://twitter.com/eldhdev)
-
